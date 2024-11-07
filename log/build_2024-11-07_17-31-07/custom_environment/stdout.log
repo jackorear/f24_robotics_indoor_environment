@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/custom_environment/indoor_environment.egg-info
+writing ../../build/custom_environment/indoor_environment.egg-info/PKG-INFO
+writing dependency_links to ../../build/custom_environment/indoor_environment.egg-info/dependency_links.txt
+writing entry points to ../../build/custom_environment/indoor_environment.egg-info/entry_points.txt
+writing requirements to ../../build/custom_environment/indoor_environment.egg-info/requires.txt
+writing top-level names to ../../build/custom_environment/indoor_environment.egg-info/top_level.txt
+writing manifest file '../../build/custom_environment/indoor_environment.egg-info/SOURCES.txt'
+reading manifest file '../../build/custom_environment/indoor_environment.egg-info/SOURCES.txt'
+writing manifest file '../../build/custom_environment/indoor_environment.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jorear/home/f24_robotics_indoor_environment/build/custom_environment/build
+creating /home/jorear/home/f24_robotics_indoor_environment/build/custom_environment/build/lib
+creating /home/jorear/home/f24_robotics_indoor_environment/build/custom_environment/build/lib/indoor_environment
+copying indoor_environment/__init__.py -> /home/jorear/home/f24_robotics_indoor_environment/build/custom_environment/build/lib/indoor_environment
+running install
+running install_lib
+creating /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/lib/python3.10/site-packages/indoor_environment
+copying /home/jorear/home/f24_robotics_indoor_environment/build/custom_environment/build/lib/indoor_environment/__init__.py -> /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/lib/python3.10/site-packages/indoor_environment
+byte-compiling /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/lib/python3.10/site-packages/indoor_environment/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/indoor_environment -> /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/share/ament_index/resource_index/packages
+creating /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/share/indoor_environment
+copying package.xml -> /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/share/indoor_environment
+creating /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/share/indoor_environment/worlds
+copying worlds/NERC_basement.wbt -> /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/share/indoor_environment/worlds
+creating /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/share/indoor_environment/launch
+copying launch/launch.py -> /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/share/indoor_environment/launch
+running install_egg_info
+Copying ../../build/custom_environment/indoor_environment.egg-info to /home/jorear/home/f24_robotics_indoor_environment/install/custom_environment/lib/python3.10/site-packages/indoor_environment-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/jorear/home/f24_robotics_indoor_environment/build/custom_environment/install.log'

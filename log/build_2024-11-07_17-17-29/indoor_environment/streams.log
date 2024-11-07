@@ -1,0 +1,37 @@
+[0.326s] Invoking command in '/home/jorear/home/f24_robotics_indoor_environment/src/indoor_environment': PYTHONPATH=/home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/indoor_environment build --build-base /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/build install --record /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/install.log --single-version-externally-managed install_data
+[0.417s] running egg_info
+[0.417s] creating ../../build/indoor_environment/indoor_environment.egg-info
+[0.417s] writing ../../build/indoor_environment/indoor_environment.egg-info/PKG-INFO
+[0.417s] writing dependency_links to ../../build/indoor_environment/indoor_environment.egg-info/dependency_links.txt
+[0.417s] writing entry points to ../../build/indoor_environment/indoor_environment.egg-info/entry_points.txt
+[0.417s] writing requirements to ../../build/indoor_environment/indoor_environment.egg-info/requires.txt
+[0.417s] writing top-level names to ../../build/indoor_environment/indoor_environment.egg-info/top_level.txt
+[0.418s] writing manifest file '../../build/indoor_environment/indoor_environment.egg-info/SOURCES.txt'
+[0.418s] reading manifest file '../../build/indoor_environment/indoor_environment.egg-info/SOURCES.txt'
+[0.419s] writing manifest file '../../build/indoor_environment/indoor_environment.egg-info/SOURCES.txt'
+[0.419s] running build
+[0.419s] running build_py
+[0.419s] creating /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/build
+[0.419s] creating /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/build/lib
+[0.419s] creating /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/build/lib/indoor_environment
+[0.419s] copying indoor_environment/__init__.py -> /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/build/lib/indoor_environment
+[0.419s] running install
+[0.419s] running install_lib
+[0.420s] creating /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/lib/python3.10/site-packages/indoor_environment
+[0.420s] copying /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/build/lib/indoor_environment/__init__.py -> /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/lib/python3.10/site-packages/indoor_environment
+[0.420s] byte-compiling /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/lib/python3.10/site-packages/indoor_environment/__init__.py to __init__.cpython-310.pyc
+[0.420s] running install_data
+[0.420s] creating /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/ament_index
+[0.420s] creating /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/ament_index/resource_index
+[0.420s] creating /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/ament_index/resource_index/packages
+[0.420s] copying resource/indoor_environment -> /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/ament_index/resource_index/packages
+[0.420s] copying package.xml -> /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/indoor_environment
+[0.421s] creating /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/indoor_environment/worlds
+[0.421s] copying worlds/NERC_basement.wbt -> /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/indoor_environment/worlds
+[0.422s] creating /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/indoor_environment/launch
+[0.422s] copying launch/launch.py -> /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/share/indoor_environment/launch
+[0.422s] running install_egg_info
+[0.423s] Copying ../../build/indoor_environment/indoor_environment.egg-info to /home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/lib/python3.10/site-packages/indoor_environment-0.0.0-py3.10.egg-info
+[0.423s] running install_scripts
+[0.432s] writing list of installed files to '/home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/install.log'
+[0.444s] Invoked command in '/home/jorear/home/f24_robotics_indoor_environment/src/indoor_environment' returned '0': PYTHONPATH=/home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jorear/home/f24_robotics_indoor_environment/install/indoor_environment/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/indoor_environment build --build-base /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/build install --record /home/jorear/home/f24_robotics_indoor_environment/build/indoor_environment/install.log --single-version-externally-managed install_data
