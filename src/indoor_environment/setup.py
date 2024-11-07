@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'indoor_environment'
+package_name = 'custom_environment'
 
 setup(
     name=package_name,
